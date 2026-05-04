@@ -36,12 +36,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shravan3024&show_icons=true&theme=radical&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shravan3024&show_icons=true&theme=radical" height="160"/>
   <img src="https://streak-stats.demolab.com?user=Shravan3024&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan3024&layout=compact&theme=radical&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shravan3024&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
@@ -54,12 +54,27 @@
 </p>
 
 
-
 ---
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shravan3024&theme=react-dark)
+
+## 🧠 Currently
+
+- 🔭 Building: AI-powered tools  
+- 🌱 Learning: System Design + PostgreSQL  
+- ⚡ Exploring: LLMs & Generative AI
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shravan3024&style=for-the-badge&color=blueviolet" />
 </p>
+
+## 🎯 Why Me?
+
+I don’t just build projects — I focus on solving real problems, 
+writing clean and maintainable code, and understanding systems deeply.
 
 <p align="center">
   <i>"Simplicity is the soul of efficiency."</i><br>
