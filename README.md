@@ -33,6 +33,26 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/Shravan3024/Facial_Emotion_Recognition">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shravan3024&repo=Facial_Emotion_Recognition&theme=radical" />
+</a>
+
+<a href="https://github.com/Shravan3024/Ai_for_bharat">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shravan3024&repo=Ai_for_bharat&theme=radical" />
+</a>
+
+<a href="https://github.com/Shravan3024/Weather-App">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shravan3024&repo=Weather-App&theme=radical" />
+</a>
+
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
