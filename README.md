@@ -91,12 +91,10 @@
   <img src="https://komarev.com/ghpvc/?username=Shravan3024&style=for-the-badge&color=blueviolet" />
 </p>
 
-## 🎯 Why Me?
-
-I don’t just build projects — I focus on solving real problems, 
-writing clean and maintainable code, and understanding systems deeply.
 
 <p align="center">
-  <i>"Simplicity is the soul of efficiency."</i><br>
-  <b>Open to impactful collaborations and internship opportunities!</b>
+  <i>योगः कर्मसु कौशलम्।</i><br>
+  <b>Striving for excellence in every line of code 💻</b><br>
+
+## <p align ="center">Open to impactful collaborations and internship opportunities!</p>
 </p>
