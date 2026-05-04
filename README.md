@@ -36,12 +36,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shravan3024&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shravan3024&show_icons=true&theme=radical&cache_seconds=1800" height="160"/>
   <img src="https://streak-stats.demolab.com?user=Shravan3024&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan3024&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan3024&layout=compact&theme=radical&cache_seconds=1800" height="160"/>
 </p>
 
 ---
@@ -49,20 +49,16 @@
 
 ## 🐍 Contribution Activity
 
-
-  <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Shravan3024/Shravan3024/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-
-## 🐍 Contribution Activity
 
 
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rushikesh-bobade&color=7AA2F7&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Shravan3024&style=for-the-badge&color=blueviolet" />
 </p>
 
 <p align="center">
