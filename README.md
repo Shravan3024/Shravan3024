@@ -16,7 +16,7 @@
 ### 🏛️ Professional Overview
 - 🎓 **Academic:** **3rd Year Computer Science & Engineering(Artificial Intelligence) Student** @ NCER, Pune (CGPA: 7.8/10.0).
 - 💻 **Industry:** **React Front End Intern** @ **Edunent Foundation**
-- 🏆 **Achievement:** **National Level hackathon Finalist, Te AI Cup 2025 Finalist** 
+- 🏆 **Achievement:** **National Level hackathon Finalist, TE AI Cup 2025 Finalist** 
 - 🚀 **Goal:** Bridging the gap between **Software Engineering** and **Artificial Intelligence**.
 
 ---
