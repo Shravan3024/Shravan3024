@@ -1,7 +1,7 @@
 # <p align="center">✨ Shravan Navale ✨</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=3rd+Year+Computer+Science+Engineering+Student;Specialization+in+Arificial+Intelligence;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=3rd+Year+Computer+Science+Engineering+Student;Specialization+in+Artificial+Intelligence;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
